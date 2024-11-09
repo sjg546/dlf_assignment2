@@ -1,0 +1,55 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{cifar-10}
+Will Cukierski.
+\newblock Cifar-10 - object recognition in images, 2013.
+
+\bibitem{fang_computer_2020}
+Weili Fang, Peter E.~D. Love, Hanbin Luo, and Lieyun Ding.
+\newblock Computer vision for behaviour-based safety in construction: {A} review and future directions.
+\newblock {\em Advanced Engineering Informatics}, 43:100980, 2020.
+
+\bibitem{https://doi.org/10.48550/arxiv.1512.03385}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition, 2015.
+
+\bibitem{ibmWhatConvolutional}
+IBM.
+\newblock {W}hat are {C}onvolutional {N}eural {N}etworks? | {I}{B}{M} --- ibm.com.
+\newblock \url{https://www.ibm.com/topics/convolutional-neural-networks}.
+\newblock [Accessed 12-10-2024].
+
+\bibitem{LINKON2021100582}
+Ali Hasan~Md. Linkon, Md.~Mahir Labib, Tarik Hasan, Mozammal Hossain, and Marium-E-Jannat.
+\newblock Deep learning in prostate cancer diagnosis and gleason grading in histopathology images: An extensive study.
+\newblock {\em Informatics in Medicine Unlocked}, 24:100582, 2021.
+
+\bibitem{pooling_diag}
+Liang Minfei, Yidong Gan, Ze Chang, Zhi Wan, Erik Schlangen, and Branko Šavija.
+\newblock Microstructure-informed deep convolutional neural network for predicting short-term creep modulus of cement paste.
+\newblock {\em Cement and Concrete Research}, 152:106681, 02 2022.
+
+\bibitem{Oh_2022}
+Fred Oh.
+\newblock What is cuda?, Jan 2022.
+
+\bibitem{REN202351}
+Jingli Ren and Haiyan Wang.
+\newblock Chapter 3 - calculus and optimization.
+\newblock In Jingli Ren and Haiyan Wang, editors, {\em Mathematical Methods in Data Science}, pages 51--89. Elsevier, 2023.
+
+\bibitem{Rumelhart1986}
+David~E. Rumelhart, Geoffrey~E. Hinton, and Ronald~J. Williams.
+\newblock Learning representations by back-propagating errors.
+\newblock {\em Nature}, 323(6088):533–536, Oct. 1986.
+
+\bibitem{Yamashita2018}
+Rikiya Yamashita, Mizuho Nishio, Richard Kinh~Gian Do, and Kaori Togashi.
+\newblock Convolutional neural networks: an overview and application in radiology.
+\newblock {\em Insights into Imaging}, 9(4):611–629, June 2018.
+
+\bibitem{Zafar_Tzanidou_Burton_Patel_Araujo}
+Iffat Zafar, Giounona Tzanidou, Richard Burton, Nimesh Patel, and Leonardo Araujo.
+\newblock Hands-on convolutional neural networks with tensorflow.
+
+\end{thebibliography}
